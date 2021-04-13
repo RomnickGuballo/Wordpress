@@ -1,0 +1,10 @@
+2021-03-30T15:46:12+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\mailchimp-for-woocommerce\includes\class-mailchimp-woocommerce-service.php on line 947
+
+2021-03-30T15:46:12+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\mailchimp-for-woocommerce\includes\class-mailchimp-woocommerce-service.php on line 947
+
+2021-03-30T15:46:13+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php on line 77
+
+2021-03-30T15:46:22+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php on line 77
+
+2021-03-30T16:15:20+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\creative-mail-by-constant-contact\src\managers\AdminManager.php on line 259
+
